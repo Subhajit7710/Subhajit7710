@@ -1,0 +1,6 @@
+# Only needed locally, when you change the portrait photo.
+# (rembg is optional: prep_photo.py falls back to a white-background flood fill.)
+Pillow>=10.0
+numpy>=1.26
+opencv-python-headless>=4.8
+# rembg>=2.0
